@@ -6,7 +6,7 @@
 int main(void) {
 	char input[BUFFERSIZE];
 	
-	printf("we are oss hw3")
+	printf("we  can do oss hw3");
 	printf("Enter your expression: ");
 	fflush(stdout);
 	fgets(input, BUFFERSIZE, stdin);
